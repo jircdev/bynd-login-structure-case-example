@@ -1,0 +1,22 @@
+{
+  "name": "welcome",
+  "widget": {
+    "element": {
+      "name": "welcome-page"
+    },
+    "route": "/welcome",
+    "is": "page",
+    "sass": {
+      "path": "/widget/sass",
+      "files": [
+        "*"
+      ]
+    },
+    "ts": {
+      "path": "/widget/ts",
+      "files": [
+        "*"
+      ]
+    }
+  }
+}
